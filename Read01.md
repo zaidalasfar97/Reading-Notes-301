@@ -9,9 +9,9 @@
 # Flexible Layouts:
 
 # Responsive web design is broken down into three main components:
-1-Flexible layouts.
-2-Media queries.
-3-Flexible media.
+#### 1-Flexible layouts.
+#### 2-Media queries.
+#### 3-Flexible media.
 
 
 ### Flexible layouts, is the practice of building the layout of a website with a flexible grid, capable of dynamically resizing to any width. Flexible grids are built using relative length units, most commonly percentages or em units. These relative lengths are then used to declare common grid property values such as width, margin, or padding.
@@ -30,7 +30,7 @@
 ### In web design, page elements with the CSS float property applied to them are just like the images in the print layout where the text flows around them. Floated elements remain a part of the flow of the web page. This is distinctly different than page elements that use absolute positioning. Absolutely positioned page elements are removed from the flow of the webpage, like when the text box in the print layout was told to ignore the page wrap. Absolutely positioned page elements will not affect the position of other elements and other elements will not affect them, whether they touch each other or not.
 
 # Float values :
-1-Right.
-2-Left.
-3-None.
-4-Inherit.
+#### 1-Right.
+#### 2-Left.
+#### 3-None.
+#### 4-Inherit.
