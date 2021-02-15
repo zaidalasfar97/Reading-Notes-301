@@ -7,7 +7,7 @@
 
 | Reads   | Name of Read |
 | ----------- | ----------- |
-| Read 1  | [Read1] (https://zaidalasfar97.github.io/Reading-Notes-301/Read01)|
+| Read 1  | [Read1](https://zaidalasfar97.github.io/Reading-Notes-301/Read01)|
 | Read 2  | [Read2](https://zaidalasfar97.github.io/Reading-Notes-301/Read02)|
 | Read 3  | [Read3]|
 | Read 4  | [Read4]|
