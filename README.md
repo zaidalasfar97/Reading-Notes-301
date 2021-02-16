@@ -9,7 +9,7 @@
 | ----------- | ----------- |
 | Read 1  | [Read1](https://zaidalasfar97.github.io/Reading-Notes-301/Read01)|
 | Read 2  | [Read2](https://zaidalasfar97.github.io/Reading-Notes-301/Read02)|
-| Read 3  | [Read3]|
+| Read 3  | [Read3](https://zaidalasfar97.github.io/Reading-Notes-301/Read03)|
 | Read 4  | [Read4]|
 | Read 5  | [Read5]|
 | Read 6  | [Read6]|
