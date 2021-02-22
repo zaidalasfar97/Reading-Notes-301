@@ -14,7 +14,7 @@
 | Read 5  | [Read5](https://zaidalasfar97.github.io/Reading-Notes-301/Read05)|
 | Read 6  | [Read6](https://zaidalasfar97.github.io/Reading-Notes-301/Read06)|
 | Read 7  | [Read7](https://zaidalasfar97.github.io/Reading-Notes-301/Read07)|
-| Read 8  | [Read8]|
+| Read 8  | [Read8](https://zaidalasfar97.github.io/Reading-Notes-301/Read08)|
 | Read 9  | [Read9]|
 | Read 10 | [Read10]|
 | Read 11 | [Read11]|
